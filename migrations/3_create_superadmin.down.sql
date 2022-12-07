@@ -1,0 +1,1 @@
+DELETE FROM users WHERE email='asilfr.dev@gmail.com';
