@@ -1,1 +1,1 @@
-# Medium API Gateway# medium_api_gateway
+# Medium API Gateway
